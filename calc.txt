@@ -1,0 +1,668 @@
+1;1;OneMinute;02:00:00;Open Bid|Open Ask;122;00:01:07.7675574
+1;1;OneMinute;00:00:10;Open Bid|Open Ask;3;00:01:07.7982410
+1;1;OneHour;00:05:00;Open Bid|Open Ask;2;00:01:08.1471852
+1;1;OneSecond;00:00:10;Open Bid|Open Ask;11;00:01:10.1637190
+1;1;OneSecond;00:05:00;Open Bid|Open Ask;255;00:01:14.9460230
+1;10;OneSecond;00:00:10;Open Bid|Open Ask;40;00:01:15.3505897
+1;1;OneMinute;00:05:00;Open Bid|Open Ask;7;00:01:40.9491183
+1;50;OneSecond;00:00:10;Open Bid|Open Ask;235;00:01:41.0949434
+1;50;OneSecond;00:05:00;Open Bid|Open Ask;5972;00:01:41.4243176
+1;1;OneHour;00:00:10;Open Bid|Open Ask;2;00:01:41.7602779
+1;1;OneSecond;02:00:00;Open Bid|Open Ask;5491;00:01:41.7332782
+1;10;OneSecond;00:05:00;Open Bid|Open Ask;949;00:01:51.7427239
+1;10;OneMinute;00:00:10;Open Bid|Open Ask;7;00:02:48.0542399
+1;10;OneMinute;00:05:00;Open Bid|Open Ask;27;00:02:48.0784001
+1;10;OneMinute;02:00:00;Open Bid|Open Ask;602;00:02:48.0791984
+1;50;OneMinute;02:00:00;Open Bid|Open Ask;3736;00:02:47.9135751
+1;50;OneSecond;02:00:00;Open Bid|Open Ask;136533;00:02:48.2887991
+1;50;OneMinute;00:00:10;Open Bid|Open Ask;34;00:03:54.6846705
+1;10;OneSecond;02:00:00;Open Bid|Open Ask;21392;00:03:54.6100819
+1;50;OneMinute;00:05:00;Open Bid|Open Ask;162;00:06:04.5730689
+1;10;OneHour;00:05:00;Open Bid|Open Ask;2;00:00:36.5515417
+1;10;OneHour;00:00:10;Open Bid|Open Ask;2;00:00:36.6048711
+1;1;OneMinute;00:05:00;Close Bid|Close Ask;7;00:01:07.6473130
+1;1;OneMinute;02:00:00;Close Bid|Close Ask;122;00:01:07.8836874
+1;50;OneHour;00:05:00;Open Bid|Open Ask;2;00:01:07.9005469
+1;50;OneHour;00:00:10;Open Bid|Open Ask;2;00:01:07.9153213
+1;1;OneSecond;00:05:00;Close Bid|Close Ask;255;00:01:08.1604556
+1;1;OneHour;02:00:00;Open Bid|Open Ask;4;00:01:08.1800616
+1;1;OneMinute;00:00:10;Close Bid|Close Ask;3;00:01:08.1770729
+1;1;OneSecond;02:00:00;Close Bid|Close Ask;5491;00:01:07.7634561
+1;10;OneMinute;00:00:10;Close Bid|Close Ask;7;00:01:08.2206946
+1;1;OneSecond;00:00:10;Close Bid|Close Ask;11;00:01:08.2379928
+1;10;OneSecond;00:05:00;Close Bid|Close Ask;949;00:01:41.0294034
+1;10;OneSecond;00:00:10;Close Bid|Close Ask;40;00:01:41.2692289
+1;10;OneHour;02:00:00;Open Bid|Open Ask;12;00:01:41.3129140
+1;10;OneSecond;02:00:00;Close Bid|Close Ask;21392;00:01:41.3729801
+1;50;OneSecond;00:05:00;Close Bid|Close Ask;5972;00:02:48.3146362
+1;50;OneHour;02:00:00;Open Bid|Open Ask;65;00:02:48.6867967
+1;50;OneSecond;02:00:00;Close Bid|Close Ask;136533;00:03:54.2085816
+1;50;OneSecond;00:00:10;Close Bid|Close Ask;235;00:06:03.9073458
+1;1;OneHour;00:00:10;Close Bid|Close Ask;2;00:00:37.1558077
+1;50;OneHour;00:05:00;Close Bid|Close Ask;2;00:00:37.5256487
+1;1;OneHour;00:05:00;Close Bid|Close Ask;2;00:01:07.8119395
+1;50;OneHour;00:00:10;Close Bid|Close Ask;2;00:01:07.9781421
+1;1;OneSecond;00:05:00;High Bid|High Ask;255;00:01:08.2127630
+1;10;OneHour;00:05:00;Close Bid|Close Ask;2;00:01:08.4483085
+1;10;OneHour;00:00:10;Close Bid|Close Ask;2;00:01:08.4889781
+1;1;OneHour;02:00:00;Close Bid|Close Ask;4;00:01:40.9321158
+1;1;OneSecond;00:00:10;High Bid|High Ask;11;00:01:41.3149915
+1;10;OneHour;02:00:00;Close Bid|Close Ask;12;00:01:41.4039032
+1;10;OneMinute;00:05:00;Close Bid|Close Ask;27;00:01:41.5483395
+1;10;OneSecond;00:05:00;High Bid|High Ask;949;00:01:41.4646483
+1;10;OneSecond;00:00:10;High Bid|High Ask;40;00:01:41.6157651
+1;1;OneSecond;02:00:00;High Bid|High Ask;5491;00:01:41.5723358
+1;10;OneSecond;02:00:00;High Bid|High Ask;21392;00:01:41.4311517
+1;10;OneMinute;02:00:00;Close Bid|Close Ask;602;00:02:48.3992270
+1;50;OneMinute;02:00:00;Close Bid|Close Ask;3736;00:02:48.6908188
+1;50;OneMinute;00:00:10;Close Bid|Close Ask;34;00:02:49.1714413
+1;50;OneMinute;00:05:00;Close Bid|Close Ask;162;00:03:54.4662691
+1;50;OneHour;02:00:00;Close Bid|Close Ask;65;00:05:01.5482688
+1;1;OneHour;00:05:00;High Bid|High Ask;2;00:00:36.4483122
+1;50;OneHour;00:00:10;High Bid|High Ask;2;00:00:36.7148592
+1;10;OneHour;00:05:00;High Bid|High Ask;2;00:00:37.1843270
+1;50;OneHour;00:05:00;High Bid|High Ask;2;00:00:37.2539099
+1;1;OneMinute;00:05:00;High Bid|High Ask;7;00:01:07.8629502
+1;10;OneMinute;02:00:00;High Bid|High Ask;602;00:01:08.2467373
+1;10;OneHour;00:00:10;High Bid|High Ask;2;00:01:08.2753298
+1;1;OneMinute;00:00:10;High Bid|High Ask;3;00:01:08.3284948
+1;1;OneHour;02:00:00;High Bid|High Ask;4;00:01:14.3328242
+1;10;OneHour;02:00:00;High Bid|High Ask;12;00:01:41.0550078
+1;1;OneMinute;02:00:00;High Bid|High Ask;122;00:01:41.5579828
+1;10;OneMinute;00:05:00;High Bid|High Ask;27;00:02:47.9258577
+1;50;OneSecond;00:00:10;High Bid|High Ask;235;00:02:47.9824995
+1;10;OneMinute;00:00:10;High Bid|High Ask;7;00:02:48.1981929
+1;50;OneMinute;02:00:00;High Bid|High Ask;3736;00:02:47.9864804
+1;50;OneSecond;00:05:00;High Bid|High Ask;5972;00:02:47.9169514
+1;50;OneMinute;00:00:10;High Bid|High Ask;34;00:02:48.5434328
+1;50;OneSecond;02:00:00;High Bid|High Ask;136533;00:02:48.2478036
+1;50;OneMinute;00:05:00;High Bid|High Ask;162;00:03:54.0259707
+1;1;OneHour;00:00:10;High Bid|High Ask;2;00:03:54.2170172
+1;10;OneSecond;00:00:10;Low Bid|Low Ask;40;00:01:08.1827414
+1;1;OneHour;00:00:10;Low Bid|Low Ask;2;00:01:08.3610442
+1;10;OneSecond;02:00:00;Low Bid|Low Ask;21392;00:01:08.2005236
+1;10;OneSecond;00:05:00;Low Bid|Low Ask;949;00:01:40.8226968
+1;1;OneMinute;00:05:00;Low Bid|Low Ask;7;00:01:40.9608785
+1;1;OneMinute;02:00:00;Low Bid|Low Ask;122;00:01:41.0497640
+1;50;OneSecond;00:00:10;Low Bid|Low Ask;235;00:01:41.0990777
+1;50;OneMinute;00:00:10;Low Bid|Low Ask;34;00:01:41.2303546
+1;1;OneMinute;00:00:10;Low Bid|Low Ask;3;00:01:41.3773517
+1;1;OneSecond;02:00:00;Low Bid|Low Ask;5491;00:01:41.2721262
+1;1;OneSecond;00:00:10;Low Bid|Low Ask;11;00:02:47.2283715
+1;10;OneMinute;00:00:10;Low Bid|Low Ask;7;00:02:47.4573366
+1;1;OneSecond;00:05:00;Low Bid|Low Ask;255;00:02:47.4752908
+1;10;OneMinute;00:05:00;Low Bid|Low Ask;27;00:02:47.5204804
+1;50;OneMinute;00:05:00;Low Bid|Low Ask;162;00:02:48.4324287
+1;50;OneHour;02:00:00;High Bid|High Ask;65;00:03:54.5094988
+1;10;OneMinute;02:00:00;Low Bid|Low Ask;602;00:03:54.7819082
+1;50;OneMinute;02:00:00;Low Bid|Low Ask;3736;00:03:54.7272015
+1;50;OneSecond;00:05:00;Low Bid|Low Ask;5972;00:03:55.0194329
+1;50;OneSecond;02:00:00;Low Bid|Low Ask;136533;00:05:00.5620501
+1;1;OneHour;00:05:00;Low Bid|Low Ask;2;00:00:36.7612621
+1;50;OneHour;00:00:10;Low Bid|Low Ask;2;00:00:37.7407217
+1;10;OneHour;00:05:00;Low Bid|Low Ask;2;00:00:41.6640367
+1;1;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;255;00:01:07.8090992
+1;1;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;11;00:01:08.0639553
+1;1;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;7;00:01:08.0821285
+1;1;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;5491;00:01:08.0862036
+1;50;OneHour;00:05:00;Low Bid|Low Ask;2;00:01:08.4254593
+1;1;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;3;00:01:08.4949863
+1;1;OneHour;02:00:00;Low Bid|Low Ask;4;00:01:14.3608811
+1;10;OneHour;00:00:10;Low Bid|Low Ask;2;00:01:40.8291317
+1;1;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;122;00:01:41.0637903
+1;10;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;40;00:01:41.1103586
+1;50;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;5972;00:01:41.7871549
+1;10;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;21392;00:01:41.0606685
+1;10;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;949;00:02:47.5266575
+1;10;OneHour;02:00:00;Low Bid|Low Ask;12;00:02:47.6349786
+1;50;OneHour;02:00:00;Low Bid|Low Ask;65;00:02:47.7244545
+1;50;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;235;00:02:48.2679350
+1;50;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;136533;00:02:48.5899494
+1;10;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:00:37.1145973
+1;1;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:00:37.1594507
+1;10;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:08.4804984
+1;1;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;4;00:01:14.2757695
+1;50;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:14.5822485
+1;10;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;12;00:01:40.8883457
+1;1;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:40.9632989
+1;10;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;602;00:01:41.3806107
+1;10;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;7;00:01:41.3855143
+1;10;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;27;00:02:47.3138068
+1;50;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:02:47.8896259
+1;50;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;34;00:02:47.9682437
+1;50;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;65;00:02:48.0164431
+1;50;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;162;00:02:48.0743748
+1;50;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;3736;00:02:47.9436014
+2;1;OneMinute;02:00:00;Open Bid|Open Ask;122;00:01:07.7249708
+2;1;OneSecond;02:00:00;Open Bid|Open Ask;5491;00:01:07.7863966
+2;1;OneMinute;00:00:10;Open Bid|Open Ask;3;00:01:08.2188486
+2;1;OneSecond;00:05:00;Open Bid|Open Ask;255;00:01:08.2980910
+2;10;OneSecond;00:05:00;Open Bid|Open Ask;949;00:01:08.3562284
+2;1;OneHour;00:05:00;Open Bid|Open Ask;2;00:01:40.9810127
+2;10;OneMinute;00:00:10;Open Bid|Open Ask;7;00:01:41.0206035
+2;10;OneSecond;00:00:10;Open Bid|Open Ask;40;00:01:41.1106105
+2;10;OneMinute;02:00:00;Open Bid|Open Ask;602;00:01:41.4068502
+2;1;OneSecond;00:00:10;Open Bid|Open Ask;11;00:01:43.2905545
+2;50;OneMinute;00:05:00;Open Bid|Open Ask;162;00:01:41.5909550
+2;50;OneMinute;00:00:10;Open Bid|Open Ask;34;00:01:41.6856701
+2;50;OneSecond;00:05:00;Open Bid|Open Ask;5972;00:01:41.6903501
+2;10;OneMinute;00:05:00;Open Bid|Open Ask;27;00:01:51.0330796
+2;50;OneSecond;00:00:10;Open Bid|Open Ask;235;00:02:48.5762560
+2;50;OneMinute;02:00:00;Open Bid|Open Ask;3736;00:02:48.9580821
+2;50;OneSecond;02:00:00;Open Bid|Open Ask;136533;00:02:48.7908253
+2;1;OneHour;00:00:10;Open Bid|Open Ask;2;00:03:54.4204879
+2;10;OneSecond;02:00:00;Open Bid|Open Ask;21392;00:05:01.2227948
+2;50;OneHour;00:05:00;Open Bid|Open Ask;2;00:00:41.7823065
+2;50;OneHour;00:00:10;Open Bid|Open Ask;2;00:00:42.2049896
+2;1;OneMinute;00:05:00;Close Bid|Close Ask;7;00:01:07.9069092
+2;1;OneMinute;02:00:00;Close Bid|Close Ask;122;00:01:08.3266596
+2;10;OneHour;00:05:00;Open Bid|Open Ask;2;00:01:08.4192540
+2;1;OneSecond;00:00:10;Close Bid|Close Ask;11;00:01:14.9977573
+2;1;OneMinute;00:00:10;Close Bid|Close Ask;3;00:01:40.9326241
+2;50;OneSecond;00:05:00;Close Bid|Close Ask;5972;00:01:41.2299630
+2;10;OneHour;00:00:10;Open Bid|Open Ask;2;00:01:41.4760242
+2;1;OneHour;02:00:00;Open Bid|Open Ask;4;00:01:41.6546170
+2;1;OneSecond;02:00:00;Close Bid|Close Ask;5491;00:01:41.5412932
+2;10;OneSecond;02:00:00;Close Bid|Close Ask;21392;00:01:40.9297780
+2;10;OneSecond;00:00:10;Close Bid|Close Ask;40;00:02:48.1302562
+2;50;OneSecond;00:00:10;Close Bid|Close Ask;235;00:02:48.1734128
+2;1;OneSecond;00:05:00;Close Bid|Close Ask;255;00:02:48.3533398
+2;10;OneHour;02:00:00;Open Bid|Open Ask;12;00:02:48.4498525
+2;50;OneSecond;02:00:00;Close Bid|Close Ask;136533;00:02:48.5506584
+2;10;OneSecond;00:05:00;Close Bid|Close Ask;949;00:03:53.9635823
+2;10;OneMinute;00:00:10;Close Bid|Close Ask;7;00:03:54.1513177
+2;50;OneHour;02:00:00;Open Bid|Open Ask;65;00:05:01.4466054
+2;1;OneHour;00:00:10;Close Bid|Close Ask;2;00:00:46.8961617
+2;10;OneHour;00:00:10;Close Bid|Close Ask;2;00:01:07.9049308
+2;1;OneSecond;00:00:10;High Bid|High Ask;11;00:01:08.3591359
+2;1;OneHour;00:05:00;Close Bid|Close Ask;2;00:01:08.4716797
+2;50;OneHour;00:05:00;Close Bid|Close Ask;2;00:01:14.6463926
+2;1;OneSecond;00:05:00;High Bid|High Ask;255;00:01:14.9997723
+2;1;OneHour;02:00:00;Close Bid|Close Ask;4;00:01:15.1553446
+2;50;OneMinute;00:00:10;Close Bid|Close Ask;34;00:01:41.1875463
+2;1;OneSecond;02:00:00;High Bid|High Ask;5491;00:01:41.2053855
+2;10;OneMinute;00:05:00;Close Bid|Close Ask;27;00:01:41.6687311
+2;10;OneMinute;02:00:00;Close Bid|Close Ask;602;00:01:51.4472291
+2;10;OneSecond;00:00:10;High Bid|High Ask;40;00:02:47.8552269
+2;10;OneSecond;00:05:00;High Bid|High Ask;949;00:02:47.8777819
+2;50;OneHour;00:00:10;Close Bid|Close Ask;2;00:02:48.1457947
+2;10;OneHour;00:05:00;Close Bid|Close Ask;2;00:02:48.1985212
+2;50;OneMinute;00:05:00;Close Bid|Close Ask;162;00:02:48.5722115
+2;10;OneHour;02:00:00;Close Bid|Close Ask;12;00:02:48.5981638
+2;50;OneHour;02:00:00;Close Bid|Close Ask;65;00:02:48.7872868
+2;50;OneMinute;02:00:00;Close Bid|Close Ask;3736;00:02:48.6950195
+2;10;OneSecond;02:00:00;High Bid|High Ask;21392;00:02:47.8688501
+2;1;OneHour;00:00:10;High Bid|High Ask;2;00:00:36.7110057
+2;50;OneHour;00:00:10;High Bid|High Ask;2;00:01:07.7610976
+2;10;OneHour;00:05:00;High Bid|High Ask;2;00:01:07.7966479
+2;1;OneHour;00:05:00;High Bid|High Ask;2;00:01:07.8544007
+2;50;OneHour;00:05:00;High Bid|High Ask;2;00:01:08.1394849
+2;1;OneMinute;02:00:00;High Bid|High Ask;122;00:01:40.8353445
+2;1;OneMinute;00:05:00;High Bid|High Ask;7;00:01:40.9231754
+2;10;OneHour;02:00:00;High Bid|High Ask;12;00:01:40.9837298
+2;1;OneMinute;00:00:10;High Bid|High Ask;3;00:02:47.7241413
+2;10;OneMinute;02:00:00;High Bid|High Ask;602;00:02:47.9243011
+2;10;OneMinute;00:00:10;High Bid|High Ask;7;00:02:47.9748385
+2;50;OneMinute;00:00:10;High Bid|High Ask;34;00:02:48.1398236
+2;50;OneMinute;02:00:00;High Bid|High Ask;3736;00:02:47.8717291
+2;50;OneMinute;00:05:00;High Bid|High Ask;162;00:02:48.2454059
+2;10;OneHour;00:00:10;High Bid|High Ask;2;00:02:48.3015584
+2;1;OneHour;02:00:00;High Bid|High Ask;4;00:03:53.6020352
+2;50;OneSecond;00:00:10;High Bid|High Ask;235;00:03:53.9040417
+2;10;OneMinute;00:05:00;High Bid|High Ask;27;00:03:53.9134776
+2;50;OneSecond;00:05:00;High Bid|High Ask;5972;00:03:53.9712941
+2;50;OneSecond;02:00:00;High Bid|High Ask;136533;00:05:01.2090339
+2;1;OneHour;00:00:10;Low Bid|Low Ask;2;00:00:36.5231752
+2;1;OneSecond;00:00:10;Low Bid|Low Ask;11;00:01:08.2327287
+2;1;OneSecond;00:05:00;Low Bid|Low Ask;255;00:01:08.3327901
+2;1;OneMinute;02:00:00;Low Bid|Low Ask;122;00:01:14.3307715
+2;1;OneSecond;02:00:00;Low Bid|Low Ask;5491;00:01:14.8408021
+2;10;OneSecond;00:00:10;Low Bid|Low Ask;40;00:01:40.8617266
+2;10;OneMinute;02:00:00;Low Bid|Low Ask;602;00:01:41.3925340
+2;1;OneMinute;00:00:10;Low Bid|Low Ask;3;00:01:41.5008706
+2;10;OneMinute;00:00:10;Low Bid|Low Ask;7;00:01:41.8224208
+2;10;OneSecond;02:00:00;Low Bid|Low Ask;21392;00:01:41.5290537
+2;10;OneMinute;00:05:00;Low Bid|Low Ask;27;00:02:48.3270049
+2;50;OneMinute;00:05:00;Low Bid|Low Ask;162;00:02:48.5276932
+2;10;OneSecond;00:05:00;Low Bid|Low Ask;949;00:02:48.4758516
+2;50;OneMinute;00:00:10;Low Bid|Low Ask;34;00:02:48.7248511
+2;50;OneMinute;02:00:00;Low Bid|Low Ask;3736;00:02:48.6519886
+2;1;OneMinute;00:05:00;Low Bid|Low Ask;7;00:03:54.8648756
+2;50;OneSecond;00:05:00;Low Bid|Low Ask;5972;00:03:54.4738875
+2;50;OneSecond;00:00:10;Low Bid|Low Ask;235;00:03:55.0441858
+2;50;OneHour;02:00:00;High Bid|High Ask;65;00:05:01.6926508
+2;50;OneSecond;02:00:00;Low Bid|Low Ask;136533;00:05:01.5716414
+2;10;OneHour;00:05:00;Low Bid|Low Ask;2;00:00:36.6207655
+2;50;OneHour;00:00:10;Low Bid|Low Ask;2;00:00:41.7107722
+2;50;OneHour;00:05:00;Low Bid|Low Ask;2;00:00:41.8502681
+2;10;OneHour;00:00:10;Low Bid|Low Ask;2;00:01:07.6129874
+2;1;OneHour;00:05:00;Low Bid|Low Ask;2;00:01:07.8314647
+2;1;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;255;00:01:07.8510576
+2;1;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;7;00:01:08.1517627
+2;1;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;3;00:01:08.3128022
+2;1;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;11;00:01:41.0168284
+2;1;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;122;00:01:41.0538735
+2;10;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;40;00:01:41.0671673
+2;10;OneHour;02:00:00;Low Bid|Low Ask;12;00:01:41.0739284
+2;10;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;949;00:01:41.1259527
+2;1;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;5491;00:01:40.8453851
+2;10;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;21392;00:01:41.2049532
+2;50;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;235;00:02:47.3802709
+2;1;OneHour;02:00:00;Low Bid|Low Ask;4;00:02:47.4255331
+2;50;OneHour;02:00:00;Low Bid|Low Ask;65;00:02:47.9465551
+2;50;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;5972;00:02:47.7852716
+2;50;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;136533;00:02:48.2106029
+2;50;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:00:37.8732500
+2;1;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:00:41.4099354
+2;10;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:00:41.8556055
+2;1;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:00:42.1083828
+2;50;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:14.5544301
+2;10;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:14.6758818
+2;10;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;602;00:01:40.8464191
+2;10;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;7;00:01:40.9885677
+2;1;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;4;00:01:41.4623017
+2;10;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;27;00:02:48.0679196
+2;10;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;12;00:02:48.2869999
+2;50;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;3736;00:02:47.9646431
+2;50;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;162;00:03:20.7468968
+2;50;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;34;00:03:20.7868520
+2;50;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;65;00:03:53.8412079
+3;1;OneHour;00:05:00;Open Bid|Open Ask;2;00:00:46.5648666
+3;1;OneSecond;00:00:10;Open Bid|Open Ask;11;00:01:09.8478334
+3;1;OneMinute;00:05:00;Open Bid|Open Ask;7;00:01:07.8118617
+3;1;OneMinute;00:00:10;Open Bid|Open Ask;3;00:01:08.2246158
+3;1;OneMinute;02:00:00;Open Bid|Open Ask;122;00:01:15.0194995
+3;1;OneSecond;00:05:00;Open Bid|Open Ask;255;00:01:15.0969834
+3;1;OneSecond;02:00:00;Open Bid|Open Ask;5491;00:01:14.9604214
+3;10;OneMinute;02:00:00;Open Bid|Open Ask;602;00:01:41.0391401
+3;1;OneHour;00:00:10;Open Bid|Open Ask;2;00:01:41.6169794
+3;10;OneSecond;00:00:10;Open Bid|Open Ask;40;00:01:41.6350913
+3;10;OneSecond;02:00:00;Open Bid|Open Ask;21392;00:01:41.5887222
+3;50;OneMinute;00:00:10;Open Bid|Open Ask;34;00:02:48.1626798
+3;10;OneSecond;00:05:00;Open Bid|Open Ask;949;00:02:48.2725661
+3;50;OneMinute;02:00:00;Open Bid|Open Ask;3736;00:02:48.7933115
+3;50;OneSecond;00:05:00;Open Bid|Open Ask;5972;00:02:48.8138799
+3;50;OneSecond;02:00:00;Open Bid|Open Ask;136533;00:02:48.5509116
+3;10;OneMinute;00:05:00;Open Bid|Open Ask;27;00:03:53.6299783
+3;10;OneMinute;00:00:10;Open Bid|Open Ask;7;00:03:53.6461443
+3;50;OneMinute;00:05:00;Open Bid|Open Ask;162;00:03:54.3717356
+3;50;OneSecond;00:00:10;Open Bid|Open Ask;235;00:03:54.6449564
+3;10;OneHour;00:05:00;Open Bid|Open Ask;2;00:00:41.5358789
+3;10;OneHour;00:00:10;Open Bid|Open Ask;2;00:00:41.5716416
+3;50;OneHour;00:00:10;Open Bid|Open Ask;2;00:00:41.7108053
+3;1;OneMinute;00:05:00;Close Bid|Close Ask;7;00:01:08.2981333
+3;1;OneMinute;00:00:10;Close Bid|Close Ask;3;00:01:15.0026763
+3;1;OneSecond;00:05:00;Close Bid|Close Ask;255;00:01:15.0304142
+3;1;OneSecond;02:00:00;Close Bid|Close Ask;5491;00:01:15.1493985
+3;10;OneMinute;00:00:10;Close Bid|Close Ask;7;00:01:40.7626837
+3;1;OneHour;02:00:00;Open Bid|Open Ask;4;00:01:40.7989168
+3;1;OneMinute;02:00:00;Close Bid|Close Ask;122;00:01:40.8150344
+3;10;OneSecond;02:00:00;Close Bid|Close Ask;21392;00:01:40.9805296
+3;1;OneSecond;00:00:10;Close Bid|Close Ask;11;00:01:51.0114709
+3;50;OneHour;02:00:00;Open Bid|Open Ask;65;00:01:51.0673588
+3;50;OneSecond;00:05:00;Close Bid|Close Ask;5972;00:01:50.8927064
+3;50;OneHour;00:05:00;Open Bid|Open Ask;2;00:02:01.9942031
+3;10;OneSecond;00:00:10;Close Bid|Close Ask;40;00:02:47.3366068
+3;50;OneSecond;02:00:00;Close Bid|Close Ask;136533;00:02:47.5083476
+3;10;OneHour;02:00:00;Open Bid|Open Ask;12;00:03:54.6863464
+3;50;OneSecond;00:00:10;Close Bid|Close Ask;235;00:05:00.5388155
+3;10;OneHour;00:05:00;Close Bid|Close Ask;2;00:01:08.1898386
+3;10;OneHour;00:00:10;Close Bid|Close Ask;2;00:01:08.2129138
+3;50;OneHour;00:05:00;Close Bid|Close Ask;2;00:01:08.3761765
+3;50;OneHour;00:00:10;Close Bid|Close Ask;2;00:01:08.4215969
+3;1;OneHour;00:05:00;Close Bid|Close Ask;2;00:01:40.8473227
+3;1;OneSecond;00:00:10;High Bid|High Ask;11;00:01:40.8831873
+3;1;OneSecond;00:05:00;High Bid|High Ask;255;00:01:40.9631405
+3;1;OneHour;00:00:10;Close Bid|Close Ask;2;00:01:41.4474215
+3;50;OneMinute;00:00:10;Close Bid|Close Ask;34;00:02:47.3477434
+3;10;OneSecond;00:00:10;High Bid|High Ask;40;00:02:47.3655611
+3;10;OneSecond;00:05:00;High Bid|High Ask;949;00:02:47.4345911
+3;1;OneHour;02:00:00;Close Bid|Close Ask;4;00:02:47.7592721
+3;1;OneSecond;02:00:00;High Bid|High Ask;5491;00:02:47.4989018
+3;10;OneHour;02:00:00;Close Bid|Close Ask;12;00:02:47.8171779
+3;10;OneMinute;02:00:00;Close Bid|Close Ask;602;00:02:47.8410689
+3;10;OneMinute;00:05:00;Close Bid|Close Ask;27;00:02:48.2222194
+3;10;OneSecond;02:00:00;High Bid|High Ask;21392;00:02:47.5038739
+3;50;OneHour;02:00:00;Close Bid|Close Ask;65;00:03:53.7973334
+3;50;OneMinute;00:05:00;Close Bid|Close Ask;162;00:03:55.1855082
+3;50;OneMinute;02:00:00;Close Bid|Close Ask;3736;00:05:00.8799694
+3;1;OneHour;00:00:10;High Bid|High Ask;2;00:01:07.6647685
+3;10;OneHour;00:05:00;High Bid|High Ask;2;00:01:08.4083092
+3;50;OneHour;00:05:00;High Bid|High Ask;2;00:01:14.5913885
+3;50;OneHour;00:00:10;High Bid|High Ask;2;00:01:14.6058046
+3;1;OneHour;02:00:00;High Bid|High Ask;4;00:01:40.8294550
+3;10;OneHour;00:00:10;High Bid|High Ask;2;00:01:40.8524778
+3;1;OneMinute;02:00:00;High Bid|High Ask;122;00:01:41.4321825
+3;1;OneHour;00:05:00;High Bid|High Ask;2;00:01:41.9876741
+3;10;OneMinute;02:00:00;High Bid|High Ask;602;00:02:47.1768145
+3;10;OneMinute;00:00:10;High Bid|High Ask;7;00:02:47.6006195
+3;10;OneMinute;00:05:00;High Bid|High Ask;27;00:02:47.6119624
+3;1;OneMinute;00:05:00;High Bid|High Ask;7;00:02:47.7535148
+3;10;OneHour;02:00:00;High Bid|High Ask;12;00:02:47.7773976
+3;50;OneSecond;02:00:00;High Bid|High Ask;136533;00:02:48.3100740
+3;50;OneMinute;00:05:00;High Bid|High Ask;162;00:03:54.5089096
+3;1;OneMinute;00:00:10;High Bid|High Ask;3;00:03:54.7794189
+3;50;OneSecond;00:05:00;High Bid|High Ask;5972;00:03:54.6867183
+3;50;OneMinute;00:00:10;High Bid|High Ask;34;00:05:00.1997481
+3;50;OneSecond;00:00:10;High Bid|High Ask;235;00:05:00.8032612
+3;50;OneMinute;02:00:00;High Bid|High Ask;3736;00:06:04.3070023
+3;1;OneHour;00:00:10;Low Bid|Low Ask;2;00:01:07.7678256
+3;10;OneMinute;00:00:10;Low Bid|Low Ask;7;00:01:07.8285989
+3;10;OneMinute;02:00:00;Low Bid|Low Ask;602;00:01:08.1094944
+3;1;OneMinute;00:00:10;Low Bid|Low Ask;3;00:01:14.9750907
+3;10;OneSecond;00:05:00;Low Bid|Low Ask;949;00:01:40.9388206
+3;50;OneHour;02:00:00;High Bid|High Ask;65;00:01:41.1177077
+3;1;OneSecond;00:05:00;Low Bid|Low Ask;255;00:01:41.4033501
+3;1;OneMinute;00:05:00;Low Bid|Low Ask;7;00:01:41.5238892
+3;50;OneMinute;00:05:00;Low Bid|Low Ask;162;00:01:41.5903829
+3;50;OneSecond;02:00:00;Low Bid|Low Ask;136533;00:01:40.9807154
+3;10;OneSecond;00:00:10;Low Bid|Low Ask;40;00:02:47.8602183
+3;1;OneMinute;02:00:00;Low Bid|Low Ask;122;00:02:47.9949032
+3;1;OneSecond;02:00:00;Low Bid|Low Ask;5491;00:02:47.9942624
+3;50;OneMinute;02:00:00;Low Bid|Low Ask;3736;00:02:48.3285185
+3;10;OneMinute;00:05:00;Low Bid|Low Ask;27;00:02:48.5405374
+3;50;OneSecond;00:00:10;Low Bid|Low Ask;235;00:02:48.7962002
+3;10;OneSecond;02:00:00;Low Bid|Low Ask;21392;00:02:48.0964843
+3;1;OneSecond;00:00:10;Low Bid|Low Ask;11;00:03:54.2875085
+3;50;OneMinute;00:00:10;Low Bid|Low Ask;34;00:03:54.5592844
+3;50;OneSecond;00:05:00;Low Bid|Low Ask;5972;00:03:54.4486056
+3;10;OneHour;00:00:10;Low Bid|Low Ask;2;00:00:36.4751201
+3;10;OneHour;00:05:00;Low Bid|Low Ask;2;00:00:36.5004151
+3;1;OneHour;00:05:00;Low Bid|Low Ask;2;00:00:36.5440880
+3;50;OneHour;00:05:00;Low Bid|Low Ask;2;00:00:36.6229950
+3;1;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;11;00:01:08.9928453
+3;1;OneHour;02:00:00;Low Bid|Low Ask;4;00:01:09.0065455
+3;10;OneHour;02:00:00;Low Bid|Low Ask;12;00:01:09.0350709
+3;1;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;7;00:01:09.3860024
+3;1;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;122;00:01:09.4025092
+3;10;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;40;00:01:09.4183907
+3;1;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;3;00:01:09.4683240
+3;1;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;255;00:01:09.6144436
+3;10;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;949;00:01:40.9056047
+3;50;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;5972;00:01:41.1655348
+3;50;OneHour;00:00:10;Low Bid|Low Ask;2;00:02:47.6407084
+3;50;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;235;00:02:47.9603691
+3;1;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;5491;00:02:47.7254082
+3;50;OneHour;02:00:00;Low Bid|Low Ask;65;00:02:48.1485482
+3;10;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;21392;00:02:48.1128734
+3;50;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;136533;00:02:47.4228788
+3;1;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:00:36.6083570
+3;10;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:14.5696770
+3;1;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:15.0150391
+3;50;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:15.2661704
+3;1;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;4;00:01:40.8526851
+3;10;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;27;00:01:41.7200022
+3;10;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:50.9012299
+3;10;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;7;00:02:47.1462902
+3;10;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;12;00:02:47.2196219
+3;10;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;602;00:02:47.1700490
+3;50;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:02:47.6522938
+3;50;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;162;00:03:54.4555524
+3;50;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;34;00:03:54.5340820
+3;50;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;65;00:03:54.5198042
+3;50;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;3736;00:03:54.1735832
+4;1;OneMinute;02:00:00;Open Bid|Open Ask;122;00:01:07.6687576
+4;1;OneSecond;00:05:00;Open Bid|Open Ask;255;00:01:07.7513654
+4;1;OneHour;00:00:10;Open Bid|Open Ask;2;00:01:07.8062493
+4;1;OneSecond;00:00:10;Open Bid|Open Ask;11;00:01:10.2077318
+4;1;OneMinute;00:05:00;Open Bid|Open Ask;7;00:01:08.1742395
+4;1;OneHour;00:05:00;Open Bid|Open Ask;2;00:01:08.7600732
+4;10;OneSecond;00:00:10;Open Bid|Open Ask;40;00:01:09.2895665
+4;1;OneSecond;02:00:00;Open Bid|Open Ask;5491;00:01:09.1781560
+4;50;OneSecond;00:00:10;Open Bid|Open Ask;235;00:01:41.1864357
+4;50;OneMinute;02:00:00;Open Bid|Open Ask;3736;00:01:41.1295896
+4;10;OneMinute;00:00:10;Open Bid|Open Ask;7;00:01:41.9072824
+4;50;OneSecond;00:05:00;Open Bid|Open Ask;5972;00:01:41.5164767
+4;10;OneMinute;02:00:00;Open Bid|Open Ask;602;00:02:47.7300259
+4;10;OneMinute;00:05:00;Open Bid|Open Ask;27;00:02:47.9559133
+4;50;OneMinute;00:05:00;Open Bid|Open Ask;162;00:02:47.9591658
+4;50;OneMinute;00:00:10;Open Bid|Open Ask;34;00:02:48.0821904
+4;10;OneSecond;00:05:00;Open Bid|Open Ask;949;00:02:47.9609726
+4;1;OneMinute;00:00:10;Open Bid|Open Ask;3;00:02:48.4296665
+4;10;OneSecond;02:00:00;Open Bid|Open Ask;21392;00:02:47.9592871
+4;50;OneSecond;02:00:00;Open Bid|Open Ask;136533;00:03:54.6045112
+4;50;OneHour;00:00:10;Open Bid|Open Ask;2;00:00:41.7444809
+4;1;OneSecond;00:05:00;Close Bid|Close Ask;255;00:01:08.2166700
+4;10;OneSecond;00:00:10;Close Bid|Close Ask;40;00:01:08.2637683
+4;1;OneMinute;02:00:00;Close Bid|Close Ask;122;00:01:08.3580973
+4;10;OneHour;00:00:10;Open Bid|Open Ask;2;00:01:14.3313972
+4;1;OneMinute;00:00:10;Close Bid|Close Ask;3;00:01:14.4018715
+4;50;OneHour;00:05:00;Open Bid|Open Ask;2;00:01:14.5156352
+4;1;OneSecond;00:00:10;Close Bid|Close Ask;11;00:01:15.1847188
+4;10;OneHour;00:05:00;Open Bid|Open Ask;2;00:01:40.9672968
+4;1;OneMinute;00:05:00;Close Bid|Close Ask;7;00:01:41.0108125
+4;10;OneSecond;00:05:00;Close Bid|Close Ask;949;00:01:41.0718112
+4;50;OneSecond;00:00:10;Close Bid|Close Ask;235;00:01:41.6542740
+4;1;OneSecond;02:00:00;Close Bid|Close Ask;5491;00:01:41.4573959
+4;1;OneHour;02:00:00;Open Bid|Open Ask;4;00:01:51.0790794
+4;10;OneHour;02:00:00;Open Bid|Open Ask;12;00:02:47.4227790
+4;10;OneMinute;00:00:10;Close Bid|Close Ask;7;00:02:47.5082101
+4;50;OneHour;02:00:00;Open Bid|Open Ask;65;00:02:47.5977040
+4;50;OneSecond;00:05:00;Close Bid|Close Ask;5972;00:02:47.8415946
+4;10;OneSecond;02:00:00;Close Bid|Close Ask;21392;00:02:47.4239325
+4;50;OneSecond;02:00:00;Close Bid|Close Ask;136533;00:02:47.6068926
+4;10;OneHour;00:05:00;Close Bid|Close Ask;2;00:00:37.1287629
+4;50;OneHour;00:00:10;Close Bid|Close Ask;2;00:00:37.3311624
+4;1;OneHour;00:00:10;Close Bid|Close Ask;2;00:01:07.7073849
+4;1;OneSecond;00:00:10;High Bid|High Ask;11;00:01:07.8037244
+4;50;OneHour;00:05:00;Close Bid|Close Ask;2;00:01:07.9607890
+4;1;OneSecond;02:00:00;High Bid|High Ask;5491;00:01:08.5401243
+4;10;OneMinute;00:05:00;Close Bid|Close Ask;27;00:01:40.8950766
+4;10;OneHour;02:00:00;Close Bid|Close Ask;12;00:01:40.9968571
+4;10;OneSecond;00:00:10;High Bid|High Ask;40;00:01:41.0198727
+4;10;OneSecond;00:05:00;High Bid|High Ask;949;00:01:41.0285809
+4;1;OneSecond;00:05:00;High Bid|High Ask;255;00:01:41.0448945
+4;1;OneHour;02:00:00;Close Bid|Close Ask;4;00:02:47.2781929
+4;50;OneMinute;00:05:00;Close Bid|Close Ask;162;00:02:47.5743917
+4;10;OneMinute;02:00:00;Close Bid|Close Ask;602;00:02:47.8956790
+4;1;OneHour;00:05:00;Close Bid|Close Ask;2;00:02:47.8908699
+4;50;OneHour;02:00:00;Close Bid|Close Ask;65;00:02:48.0804037
+4;50;OneMinute;00:00:10;Close Bid|Close Ask;34;00:02:48.1567786
+4;50;OneMinute;02:00:00;Close Bid|Close Ask;3736;00:02:48.3077795
+4;10;OneSecond;02:00:00;High Bid|High Ask;21392;00:02:47.9315391
+4;1;OneHour;00:00:10;High Bid|High Ask;2;00:00:36.5956956
+4;1;OneHour;00:05:00;High Bid|High Ask;2;00:01:07.6292466
+4;1;OneHour;02:00:00;High Bid|High Ask;4;00:01:07.8032302
+4;10;OneHour;00:00:10;High Bid|High Ask;2;00:01:07.8227237
+4;1;OneMinute;00:00:10;High Bid|High Ask;3;00:01:07.8415681
+4;1;OneMinute;00:05:00;High Bid|High Ask;7;00:01:07.8728810
+4;50;OneHour;00:05:00;High Bid|High Ask;2;00:01:07.9228102
+4;10;OneHour;00:05:00;High Bid|High Ask;2;00:01:08.3363189
+4;10;OneMinute;02:00:00;High Bid|High Ask;602;00:01:40.9512642
+4;10;OneMinute;00:00:10;High Bid|High Ask;7;00:01:40.9955857
+4;50;OneHour;00:00:10;High Bid|High Ask;2;00:01:41.1027828
+4;10;OneHour;02:00:00;High Bid|High Ask;12;00:01:41.3056917
+4;50;OneMinute;00:05:00;High Bid|High Ask;162;00:02:47.4742275
+4;1;OneMinute;02:00:00;High Bid|High Ask;122;00:02:47.8832245
+4;10;OneMinute;00:05:00;High Bid|High Ask;27;00:02:47.9144349
+4;50;OneMinute;00:00:10;High Bid|High Ask;34;00:02:48.1058908
+4;50;OneMinute;02:00:00;High Bid|High Ask;3736;00:02:48.0290112
+4;50;OneSecond;00:05:00;High Bid|High Ask;5972;00:02:48.1492555
+4;50;OneSecond;02:00:00;High Bid|High Ask;136533;00:02:48.1145354
+4;50;OneSecond;00:00:10;High Bid|High Ask;235;00:03:53.8596439
+4;1;OneMinute;00:05:00;Low Bid|Low Ask;7;00:01:07.6283289
+4;1;OneSecond;02:00:00;Low Bid|Low Ask;5491;00:01:07.9243927
+4;1;OneHour;00:00:10;Low Bid|Low Ask;2;00:01:08.3986269
+4;1;OneSecond;00:00:10;Low Bid|Low Ask;11;00:01:40.7615641
+4;1;OneSecond;00:05:00;Low Bid|Low Ask;255;00:01:40.8994790
+4;10;OneSecond;00:05:00;Low Bid|Low Ask;949;00:01:41.0210028
+4;10;OneSecond;00:00:10;Low Bid|Low Ask;40;00:01:41.4854543
+4;1;OneMinute;02:00:00;Low Bid|Low Ask;122;00:01:41.5127015
+4;1;OneMinute;00:00:10;Low Bid|Low Ask;3;00:01:41.5817904
+4;10;OneSecond;02:00:00;Low Bid|Low Ask;21392;00:01:40.9244732
+4;50;OneSecond;00:00:10;Low Bid|Low Ask;235;00:01:51.1206052
+4;10;OneMinute;00:05:00;Low Bid|Low Ask;27;00:02:47.2853859
+4;10;OneMinute;02:00:00;Low Bid|Low Ask;602;00:02:47.3808656
+4;50;OneHour;02:00:00;High Bid|High Ask;65;00:02:47.3912058
+4;10;OneMinute;00:00:10;Low Bid|Low Ask;7;00:02:47.8654895
+4;50;OneSecond;00:05:00;Low Bid|Low Ask;5972;00:02:48.1387866
+4;50;OneSecond;02:00:00;Low Bid|Low Ask;136533;00:02:47.6273224
+4;50;OneMinute;00:05:00;Low Bid|Low Ask;162;00:03:54.3917685
+4;50;OneMinute;02:00:00;Low Bid|Low Ask;3736;00:03:54.3592513
+4;50;OneMinute;00:00:10;Low Bid|Low Ask;34;00:03:54.8607599
+4;10;OneHour;00:05:00;Low Bid|Low Ask;2;00:00:36.9923606
+4;1;OneHour;00:05:00;Low Bid|Low Ask;2;00:00:41.6143230
+4;10;OneHour;00:00:10;Low Bid|Low Ask;2;00:00:41.7155300
+4;1;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;122;00:01:07.7180054
+4;10;OneHour;02:00:00;Low Bid|Low Ask;12;00:01:08.2623128
+4;1;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;7;00:01:08.2652182
+4;1;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;5491;00:01:08.2449105
+4;10;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;21392;00:01:07.7324856
+4;10;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;40;00:01:14.4352509
+4;1;OneHour;02:00:00;Low Bid|Low Ask;4;00:01:14.4518295
+4;1;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;3;00:01:14.4586380
+4;1;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;255;00:01:14.4728790
+4;10;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;949;00:01:14.7269449
+4;1;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;11;00:01:14.9245550
+4;50;OneHour;00:05:00;Low Bid|Low Ask;2;00:01:14.9350615
+4;50;OneHour;00:00:10;Low Bid|Low Ask;2;00:01:41.4716815
+4;50;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;136533;00:01:41.1488646
+4;50;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;235;00:02:47.4598283
+4;50;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;5972;00:02:47.7093167
+4;50;OneHour;02:00:00;Low Bid|Low Ask;65;00:02:48.6978946
+4;10;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:00:36.6273733
+4;1;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:07.7647027
+4;1;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:07.8261738
+4;50;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:14.7137001
+4;10;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:14.8226905
+4;1;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;4;00:01:15.4312824
+4;50;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:22.7144146
+4;10;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;7;00:01:41.0001462
+4;10;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;12;00:01:41.5557982
+4;10;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;602;00:02:47.9206535
+4;10;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;27;00:02:47.9457519
+4;50;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;34;00:02:48.0182701
+4;50;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;162;00:02:48.0547806
+4;50;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;65;00:03:54.5781780
+4;50;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;3736;00:03:54.7795325
+5;1;OneHour;00:00:10;Open Bid|Open Ask;2;00:00:36.5715323
+5;1;OneMinute;02:00:00;Open Bid|Open Ask;122;00:00:41.5218371
+5;1;OneMinute;00:00:10;Open Bid|Open Ask;3;00:01:08.1595150
+5;10;OneSecond;00:05:00;Open Bid|Open Ask;949;00:01:08.4145699
+5;10;OneMinute;00:05:00;Open Bid|Open Ask;27;00:01:08.4181669
+5;1;OneSecond;02:00:00;Open Bid|Open Ask;5491;00:01:08.1883703
+5;10;OneMinute;02:00:00;Open Bid|Open Ask;602;00:01:14.3045119
+5;10;OneSecond;00:00:10;Open Bid|Open Ask;40;00:01:14.5064500
+5;10;OneMinute;00:00:10;Open Bid|Open Ask;7;00:01:14.6394822
+5;10;OneSecond;02:00:00;Open Bid|Open Ask;21392;00:01:15.2419219
+5;1;OneSecond;00:05:00;Open Bid|Open Ask;255;00:01:40.8617093
+5;1;OneMinute;00:05:00;Open Bid|Open Ask;7;00:01:40.8913433
+5;1;OneSecond;00:00:10;Open Bid|Open Ask;11;00:01:42.1554071
+5;50;OneSecond;00:00:10;Open Bid|Open Ask;235;00:01:41.1193035
+5;50;OneSecond;00:05:00;Open Bid|Open Ask;5972;00:01:41.1176895
+5;50;OneMinute;00:05:00;Open Bid|Open Ask;162;00:02:47.4968461
+5;50;OneMinute;00:00:10;Open Bid|Open Ask;34;00:02:47.5180393
+5;50;OneSecond;02:00:00;Open Bid|Open Ask;136533;00:05:01.3489718
+5;50;OneMinute;02:00:00;Open Bid|Open Ask;3736;00:06:03.6407094
+5;10;OneHour;00:05:00;Open Bid|Open Ask;2;00:00:36.6358675
+5;50;OneHour;00:00:10;Open Bid|Open Ask;2;00:00:37.1098297
+5;10;OneHour;00:00:10;Open Bid|Open Ask;2;00:00:42.2041950
+5;1;OneMinute;02:00:00;Close Bid|Close Ask;122;00:01:08.0259123
+5;1;OneSecond;00:00:10;Close Bid|Close Ask;11;00:01:08.4616020
+5;1;OneSecond;02:00:00;Close Bid|Close Ask;5491;00:01:08.6205798
+5;1;OneMinute;00:00:10;Close Bid|Close Ask;3;00:01:14.9549776
+5;50;OneHour;00:05:00;Open Bid|Open Ask;2;00:01:14.9948371
+5;1;OneHour;02:00:00;Open Bid|Open Ask;4;00:01:15.1999706
+5;10;OneHour;02:00:00;Open Bid|Open Ask;12;00:01:40.9481341
+5;10;OneSecond;00:00:10;Close Bid|Close Ask;40;00:01:41.6563527
+5;50;OneSecond;00:05:00;Close Bid|Close Ask;5972;00:01:41.6800155
+5;50;OneSecond;02:00:00;Close Bid|Close Ask;136533;00:01:41.7136765
+5;10;OneMinute;00:00:10;Close Bid|Close Ask;7;00:02:47.2387863
+5;1;OneMinute;00:05:00;Close Bid|Close Ask;7;00:02:47.8939334
+5;10;OneSecond;00:05:00;Close Bid|Close Ask;949;00:02:47.9499630
+5;50;OneHour;02:00:00;Open Bid|Open Ask;65;00:02:48.0486663
+5;10;OneSecond;02:00:00;Close Bid|Close Ask;21392;00:02:47.9692450
+5;1;OneSecond;00:05:00;Close Bid|Close Ask;255;00:02:50.1727047
+5;50;OneSecond;00:00:10;Close Bid|Close Ask;235;00:03:55.0244658
+5;10;OneHour;00:05:00;Close Bid|Close Ask;2;00:00:41.5964066
+5;1;OneHour;00:00:10;Close Bid|Close Ask;2;00:00:42.0889214
+5;10;OneMinute;02:00:00;Close Bid|Close Ask;602;00:01:07.7648088
+5;10;OneHour;00:00:10;Close Bid|Close Ask;2;00:01:08.2385506
+5;1;OneSecond;00:00:10;High Bid|High Ask;11;00:01:14.4049230
+5;50;OneHour;00:00:10;Close Bid|Close Ask;2;00:01:14.5582539
+5;50;OneHour;00:05:00;Close Bid|Close Ask;2;00:01:15.0070553
+5;10;OneMinute;00:05:00;Close Bid|Close Ask;27;00:01:40.9962661
+5;1;OneSecond;00:05:00;High Bid|High Ask;255;00:01:41.0147142
+5;1;OneSecond;02:00:00;High Bid|High Ask;5491;00:01:41.1548022
+5;1;OneHour;02:00:00;Close Bid|Close Ask;4;00:01:41.3830895
+5;50;OneMinute;00:05:00;Close Bid|Close Ask;162;00:02:47.9222482
+5;1;OneHour;00:05:00;Close Bid|Close Ask;2;00:02:47.9265789
+5;50;OneMinute;02:00:00;Close Bid|Close Ask;3736;00:02:48.1420957
+5;10;OneSecond;02:00:00;High Bid|High Ask;21392;00:02:47.9577318
+5;50;OneHour;02:00:00;Close Bid|Close Ask;65;00:03:53.9002753
+5;10;OneHour;02:00:00;Close Bid|Close Ask;12;00:03:54.4166540
+5;10;OneSecond;00:05:00;High Bid|High Ask;949;00:05:00.4522835
+5;50;OneMinute;00:00:10;Close Bid|Close Ask;34;00:05:00.6579610
+5;10;OneHour;00:00:10;High Bid|High Ask;2;00:00:36.6658108
+5;50;OneHour;00:00:10;High Bid|High Ask;2;00:00:41.6099601
+5;10;OneHour;00:05:00;High Bid|High Ask;2;00:01:07.7926798
+5;50;OneHour;00:05:00;High Bid|High Ask;2;00:01:07.8256925
+5;1;OneHour;00:00:10;High Bid|High Ask;2;00:01:08.1781421
+5;1;OneHour;00:05:00;High Bid|High Ask;2;00:01:08.3464657
+5;1;OneMinute;02:00:00;High Bid|High Ask;122;00:01:40.8766225
+5;10;OneMinute;02:00:00;High Bid|High Ask;602;00:01:40.9529111
+5;10;OneHour;02:00:00;High Bid|High Ask;12;00:01:40.9569303
+5;1;OneMinute;00:00:10;High Bid|High Ask;3;00:01:40.9670525
+5;10;OneMinute;00:00:10;High Bid|High Ask;7;00:01:40.9975693
+5;10;OneMinute;00:05:00;High Bid|High Ask;27;00:01:41.0732673
+5;50;OneSecond;00:00:10;High Bid|High Ask;235;00:02:47.4701989
+5;50;OneMinute;00:00:10;High Bid|High Ask;34;00:02:47.5696997
+5;50;OneMinute;00:05:00;High Bid|High Ask;162;00:02:48.1119968
+5;50;OneSecond;00:05:00;High Bid|High Ask;5972;00:02:47.9811744
+5;50;OneMinute;02:00:00;High Bid|High Ask;3736;00:02:48.1392418
+5;50;OneSecond;02:00:00;High Bid|High Ask;136533;00:02:48.0297910
+5;1;OneSecond;02:00:00;Low Bid|Low Ask;5491;00:01:14.9568024
+5;10;OneSecond;00:00:10;Low Bid|Low Ask;40;00:01:41.1617775
+5;1;OneMinute;00:05:00;Low Bid|Low Ask;7;00:01:41.3767754
+5;1;OneMinute;00:00:10;Low Bid|Low Ask;3;00:01:41.4032222
+5;1;OneMinute;02:00:00;Low Bid|Low Ask;122;00:01:41.4343233
+5;10;OneMinute;00:00:10;Low Bid|Low Ask;7;00:01:41.4581519
+5;1;OneSecond;00:05:00;Low Bid|Low Ask;255;00:01:41.5704020
+5;10;OneMinute;02:00:00;Low Bid|Low Ask;602;00:02:47.3703918
+5;50;OneMinute;00:00:10;Low Bid|Low Ask;34;00:02:47.4773396
+5;50;OneHour;02:00:00;High Bid|High Ask;65;00:02:47.6976537
+5;10;OneSecond;00:05:00;Low Bid|Low Ask;949;00:02:47.7596233
+5;10;OneMinute;00:05:00;Low Bid|Low Ask;27;00:02:47.9621396
+5;50;OneSecond;02:00:00;Low Bid|Low Ask;136533;00:02:48.0293620
+5;1;OneSecond;00:00:10;Low Bid|Low Ask;11;00:03:53.9476350
+5;1;OneHour;00:00:10;Low Bid|Low Ask;2;00:03:54.9866790
+5;10;OneSecond;02:00:00;Low Bid|Low Ask;21392;00:03:53.9368922
+5;50;OneMinute;00:05:00;Low Bid|Low Ask;162;00:05:00.3105716
+5;50;OneMinute;02:00:00;Low Bid|Low Ask;3736;00:05:00.3751473
+5;50;OneSecond;00:05:00;Low Bid|Low Ask;5972;00:05:00.4792260
+5;50;OneSecond;00:00:10;Low Bid|Low Ask;235;00:06:04.0879823
+5;1;OneHour;00:05:00;Low Bid|Low Ask;2;00:00:36.9777855
+5;10;OneHour;00:05:00;Low Bid|Low Ask;2;00:00:36.9801474
+5;50;OneHour;00:05:00;Low Bid|Low Ask;2;00:00:37.1363471
+5;50;OneHour;00:00:10;Low Bid|Low Ask;2;00:00:42.3159262
+5;1;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;11;00:01:07.8191695
+5;1;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;3;00:01:08.0807609
+5;1;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;5491;00:01:07.7408734
+5;1;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;122;00:01:08.6098635
+5;1;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;255;00:01:14.4112715
+5;1;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;7;00:01:14.8352434
+5;10;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;40;00:01:41.0272765
+5;1;OneHour;02:00:00;Low Bid|Low Ask;4;00:01:41.3601048
+5;10;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;21392;00:01:41.2162125
+5;50;OneHour;02:00:00;Low Bid|Low Ask;65;00:02:48.5165254
+5;10;OneHour;02:00:00;Low Bid|Low Ask;12;00:02:48.5582598
+5;50;OneSecond;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;235;00:02:48.5759490
+5;10;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;949;00:02:48.9851515
+5;50;OneSecond;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;136533;00:02:48.7644626
+5;50;OneSecond;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;5972;00:03:02.7922238
+5;10;OneHour;00:00:10;Low Bid|Low Ask;2;00:03:54.9305457
+5;1;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:00:36.5608362
+5;10;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:07.8858794
+5;50;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:07.9815015
+5;1;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:08.3690766
+5;10;OneHour;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:08.3760254
+5;10;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;602;00:01:21.8577336
+5;10;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;7;00:01:40.7982058
+5;10;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;27;00:01:40.9204262
+5;1;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;4;00:01:41.1431723
+5;50;OneHour;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;2;00:01:41.1873914
+5;50;OneMinute;00:00:10;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;34;00:02:47.5286084
+5;10;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;12;00:02:47.8178797
+5;50;OneHour;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;65;00:02:48.0955790
+5;50;OneMinute;02:00:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;3736;00:02:47.9643445
+5;50;OneMinute;00:05:00;Open Bid|Open Ask|Close Bid|Close Ask|High Bid|High Ask|Low Bid|Low Ask;162;00:03:54.2481827
